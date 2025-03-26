@@ -1,0 +1,37 @@
+/* 🌱 General Styles */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* 🧾 Card Styling */
+.card {
+  border-radius: 15px;
+  border: 1px solid #dee2e6;
+}
+
+/* 🌿 Title */
+h2 {
+  font-weight: bold;
+}
+
+/* 📝 Form Inputs */
+.form-label {
+  font-weight: 500;
+}
+
+/* 🧠 Prediction Result */
+.badge {
+  padding: 10px 20px;
+}
+
+/* 💬 Gemini Explanation */
+.fst-italic {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* 🛠 Error message */
+.alert-danger {
+  font-weight: bold;
+}
